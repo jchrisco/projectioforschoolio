@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="https://ide.c9.io/coultjoh000/coding-project">
+    <head>
+   <title><h1="color:Black;">1234</h1></title>
+   <link href="main.css" rel="stylesheet" type="text/css"></link>
+   <style>
+
+</style>
+     </head>
+     <body>
+     <P><b>Tic-Tac-Toe</b></p></body>
+     <br> </br>
+     <hr> </hr>
+     <ul>
+        <p><b><u>How To Play!</u></b></p>
+        <li style="color:Pink;">In the game tic-tac-toe, there are two players who are filling in X's and O's into a 3x3 grid, who are alternating turns and trying to achieve 3-in-a-row.</li>
+        <li style="color:Green;">The first player is the shape X and the second is the shape O, in which ounce a shape has 3-in-a-row, either horizontally, vertically, or diagonally, the player wins.
+
+</li>
+    
+     </ul>
+     <br> </br>
+     <hr> </hr>
+  
+     <h1> The History Of Tic-Tac-Toe</h1>
+       <div="color:Black;">Tic-tac-toe originated from the ancient Roman Empire 
+       and it was called Terni Lapilli, however the rules differ. 
+       The first tic tac to game, with today's rules, was found in Britain,
+       1864 with the name "Noughts and Crosses".
+</div>  
+
+</style>
+</head>
+<body>
+<div class="dropdown">
+  <button class="dropbtn">Links</button>
+  <div class="dropdown-content">
+    <a href="https://giphy.com/gifs/D8lm1NDcobQOI/html5">Gif of Tic-Tac-Toe #1</a>
+    <a href="https://giphy.com/gifs/ZOkZMEY7SgozC/html5">Gif of Tic-Tac-Toe #2</a>
+    <a href="https://ide.c9.io/coultjoh000/coding-project">Strategies</a>
+  </div>
+</div>
+     </body>
+    
+     </html>
