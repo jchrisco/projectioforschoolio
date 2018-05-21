@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="https://ide.c9.io/coultjoh000/coding-project">
+    <head>
+   <title><h1="color:Black;">1234</h1></title>
+   <link href="main.css" rel="stylesheet" type="text/css"></link>
+     </head>
+     <body>
+     <P><b>Strategies</b></p></body>
+     <br> </br>
+     <hr> </hr>
+     <h1> The History Of Tic-Tac-Toe</h1>
+       <div="color:Black;">In the game, there are two main strategies to win, but keep in mind that since tic-tac-toe is zero sum game, if both players are skilled, there will often be no winners. The first strategy is putting your shape in 3 of the 4 corners, and if your opponent doesn't know the strategy, a win will occur horizontally, vertically or diagonally. The counter attack to this strategy, is to go straight for the win. Meaning on your second turn put your shape right next to your first shape, causing the other player to stop his strategy attack and stop you from winning. Another strategy to win the game is to place your fist shape into the center. The center is connected to all boxes on the grid and gives you the highest chance to get 3-in-a-row. However if your opponent goes in the middle, then the first strategy of going into the corners is your best bet.
+</div> 
+
+
+</head>
+
+    
+     </html>
